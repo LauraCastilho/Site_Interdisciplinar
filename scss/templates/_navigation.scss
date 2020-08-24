@@ -20,6 +20,7 @@
       font-family: $tertiary-font;
       text-transform: uppercase;
       padding: 15px;
+      color: #cd5c5c;
     }
     &.active{
       font-weight: bold;
@@ -28,5 +29,5 @@
 }
 
 .navbar-dark .navbar-nav .nav-link{
-  color: $white;
+  color: #cd5c5c;
 }
